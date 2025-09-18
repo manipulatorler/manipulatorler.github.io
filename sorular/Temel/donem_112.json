@@ -1,0 +1,1252 @@
+[
+    {
+        "cevap": "C",
+        "id": 1,
+        "secenekA": "2000",
+        "secenekB": "2002",
+        "secenekC": "2004",
+        "secenekD": "2006",
+        "secenekE": "2008",
+        "soru": "Türkiye’de özel güvenlik anlayışının temeli 1981 yılında 2945 sayılı Kanun ile atılmıştır. Bu Kanunu yürürlükten kaldıran ve halen yürürlükte olan 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun hangi tarihte yürürlüğe girmiştir?"
+    },
+    {
+        "cevap": "B",
+        "id": 2,
+        "secenekA": "Terk edilmiş ve bulunmuş eşyayı emanete alma",
+        "secenekB": "Olay yerinde delil toplama ve mağdurun ifadesini alma",
+        "secenekC": "Tabiî afet durumlarında ve imdat istenmesi halinde görev alanındaki işyeri ve konutlara girme",
+        "secenekD": "Görev alanında, haklarında yakalama emri bulunan kişileri yakalama ve arama",
+        "secenekE": "Kişinin vücudu veya sağlığı bakımından mevcut bir tehlikeden korunması amacıyla yakalama",
+        "soru": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanunun 7’inci maddesinde belirtilen “Özel güvenlik görevlilerinin yetkileri” ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?"
+    },
+    {
+        "cevap": "E",
+        "id": 3,
+        "secenekA": "Mülkilik",
+        "secenekB": "Şahsilik",
+        "secenekC": "Koruma",
+        "secenekD": "Evrensellik",
+        "secenekE": "Mütekabiliyet",
+        "soru": "Yabancı kişilerin özel güvenlik şirketi kurabilmesi ve yabancı şirketlerin Türkiye’de özel güvenlik hizmeti verebilmesinde aranan temel ilke nedir?"
+    },
+    {
+        "cevap": "C",
+        "id": 4,
+        "secenekA": "7 Gün",
+        "secenekB": "15 Gün",
+        "secenekC": "1 Ay",
+        "secenekD": "2 Ay",
+        "secenekE": "3 Ay",
+        "soru": "Geçici haller dışındaki özel güvenlik uygulaması, en az ………. önce başvurulması şartıyla komisyonun kararı ve valinin onayı ile sona erdirilebilir. Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?"
+    },
+    {
+        "cevap": "B",
+        "id": 5,
+        "secenekA": "Vali",
+        "secenekB": "Özel Güvenlik Komisyonu",
+        "secenekC": "Vali Yardımcısı",
+        "secenekD": "İl Emniyet Müdürü",
+        "secenekE": "Özel Güvenlik Şirketi Müdürü",
+        "soru": "Görevin ve işyerinin özelliği nedeniyle gerekli görülen hallerde özel güvenlik görevlisinin sivil kıyafetle görev yapmasına kim tarafından izin verilir?"
+    },
+    {
+        "cevap": "E",
+        "id": 6,
+        "secenekA": "Yalnız I",
+        "secenekB": "Yalnız III",
+        "secenekC": "I ve II",
+        "secenekD": "I ve III",
+        "secenekE": "I, II ve III",
+        "soru": "Aşağıdaki şıklardan hangisinde suçüstü halinde yakalama yetkisini kullanabilecekler eksiksiz sayılmıştır? I. Genel kolluk II. Özel güvenlik görevlileri III. Mağdur kişi"
+    },
+    {
+        "cevap": "C",
+        "id": 7,
+        "secenekA": "Eğitim ve öğretim kurumlarında",
+        "secenekB": "Sağlık tesislerinde",
+        "secenekC": "Para nakillerinde",
+        "secenekD": "Talih oyunları işletmelerinde",
+        "secenekE": "İçkili yerlerde",
+        "soru": "Aşağıdakilerden hangisinde özel güvenlik görevlisi silah ile görev yapabilir?"
+    },
+    {
+        "cevap": "E",
+        "id": 8,
+        "secenekA": "Ülkenin her yerinde",
+        "secenekB": "Görevli bulunduğu il sınırları içinde",
+        "secenekC": "Görev alanı ve görev alanının 5 km çapındaki sınırlar içerisinde",
+        "secenekD": "Göreve giderken servis aracı güzergâhında",
+        "secenekE": "Görev alanında",
+        "soru": "Özel güvenlik görevlisi Caner’in 5188 sayılı Kanun’da sayılmış olan yetkilerini nerede kullanabilir?"
+    },
+    {
+        "cevap": "E",
+        "id": 9,
+        "secenekA": "Belediye Başkanı",
+        "secenekB": "İl Emniyet Müdürü",
+        "secenekC": "İl Jandarma Komutanı",
+        "secenekD": "Vali",
+        "secenekE": "Vali Yardımcısı",
+        "soru": "İllerde Özel Güvenlik Komisyonu Başkanı kimdir?"
+    },
+    {
+        "cevap": "A",
+        "id": 10,
+        "secenekA": "İşçinin yapmakla ödevli bulunduğu görevleri kendisine hatırlatıldığı halde yapmamakta ısrar etmesi",
+        "secenekB": "İşverenden izin almaksızın bir işgünü işe gelmemek",
+        "secenekC": "İşçinin tedavi edilebilecek bir hastalığa yakalanması",
+        "secenekD": "Ücretinin işveren tarafından ödenmemesi",
+        "secenekE": "Doğruluk ve bağlılığa uyan davranışlarda bulunması",
+        "soru": "Aşağıdaki hallerden hangisi işveren açısından haklı fesih ile özel güvenlik görevlisi Caner’in iş sözleşmesine son verilme sebebidir?"
+    },
+    {
+        "cevap": "E",
+        "id": 11,
+        "secenekA": "İl özel güvenlik komisyonu hangi koruma ve güvenlik hizmeti için ne miktar ve özellikte ateşli silah bulundurulabileceğini belirler",
+        "secenekB": "Talih oyunları işletmelerinde, sağlık tesislerinde, eğitim ve öğretim kurumlarında veya içkili yerlerde silahlı özel güvenlik görevlisi çalıştırılmasına izin verilmez",
+        "secenekC": "Özel güvenlik görevlileri, spor müsabakalarında, özel toplantılarda, sahne gösterileri ve benzeri etkinliklerde silahlı olarak görev yapamaz",
+        "secenekD": "Koruma ve güvenlik hizmetinde kullanılacak silah ve teçhizat, ilgili kişi veya kuruluş tarafından temin edilir",
+        "secenekE": "Özel güvenlik şirketlerine, silah eğitiminde kullanılmak üzere il özel güvenlik komisyonunun kararı ve valinin onayı ile silah alma, kullanma ve taşıma izni verilebilir",
+        "soru": "Aşağıdakilerden hangisi özel güvenlik hizmetlerinde kullanılan silahlar için yanlıştır?"
+    },
+    {
+        "cevap": "C",
+        "id": 12,
+        "secenekA": "I-II-III-IV-V",
+        "secenekB": "II-IV-V",
+        "secenekC": "I-II-IV",
+        "secenekD": "II-V",
+        "secenekE": "III-IV-V",
+        "soru": "Havaalanında çalışan özel güvenlik görevlisi Yasin tarafından yerine getirilen hangi uygulamalar doğrudur? I.Yolculara kimlik sorma II. Yolcuları X-ray cihazından geçirme III. Yolcuların üzerini gerektiğinde el ile arama IV. Yolculara nereye gideceklerine dair sorular sorma V. Havaalanı çalışanlarının silahlarını geçici emanete alma"
+    },
+    {
+        "cevap": "E",
+        "id": 13,
+        "secenekA": "18 yaşından küçük bir çocuk hırsızlık yaparken suçüstü yakalanırsa",
+        "secenekB": "İki şahıs birbirlerine ağır hakaret ediyorsa",
+        "secenekC": "İki şahıs birbirlerini iterek bağırarak tartışıyorsa",
+        "secenekD": "İki şahıstan biri sadece diğerini darp ediyor ve ayırmak isteyen özel güvenlik görevlisine de fiziki saldırıda bulunuyorsa her iki şahsa da kelepçe takılabilir",
+        "secenekE": "İki şahıstan biri kendine ve başkasına zarar veriyorsa kelepçe takılır",
+        "soru": "AVM’de çalışan, il özel güvenlik komisyonunca kelepçe teçhizatı kullanmasına izin verilen özel güvenlik görevlilerinin, aşağıdaki hangi durumda görev alanında meydana gelen olayda kelepçe takma yetkisi oluşur?"
+    },
+    {
+        "cevap": "E",
+        "id": 14,
+        "secenekA": "Yalnız I",
+        "secenekB": "I ve II",
+        "secenekC": "I ve III",
+        "secenekD": "I, II, III",
+        "secenekE": "I, II, III, IV",
+        "soru": "Hangi suçlar kapsamında soruşturma veya kovuşturması bulunan kişiler, özel güvenlik görevlisi olamaz? I. Anayasal düzene ve bu düzenin işleyişi ile ilgili suçlar II. Özel hayata ve hayatın gizli alanı kapsamındaki suçlar III. Cinsel dokunulmazlığa karşı suçlar IV. Uyuşturucu veya uyarıcı madde suçları"
+    },
+    {
+        "cevap": "E",
+        "id": 15,
+        "secenekA": "Türk Medeni Kanunu",
+        "secenekB": "Borçlar Kanunu",
+        "secenekC": "Ceza Muhakemesi Kanunu",
+        "secenekD": "Türk Ceza Kanunu",
+        "secenekE": "Türk Ticaret Kanunu",
+        "soru": "Özel güvenlik görevlisi Figen, görev yaptığı alışveriş merkezindeki bir mağazada hırsızlık yapıldığını ve şahsın giriş kapısına doğru kaçtığını öğrenir, aldığı tedbirle hırsızı yakalar ancak hırsız kendisine karşı direnmektedir. Bu durumda özel güvenlik görevlisi zor kullanma yetkisini kullanarak hırsızı etkisiz hale getirir. Aşağıdaki kanunlardan hangisi yakalama ve zor kullanma yetkisi vermez?"
+    },
+    {
+        "cevap": "C",
+        "id": 16,
+        "secenekA": "Madde alınıp şahıs gönderilir",
+        "secenekB": "Şahısın beyanı esas alınır ve gönderilir",
+        "secenekC": "Şahıs bekletilir, genel kolluğa haber verilir",
+        "secenekD": "Madde kontrol için laboratuvara gönderilir",
+        "secenekE": "Özel güvenlik görevlileri kendileri kontrol yapar ve karar verir",
+        "soru": "VYZ alışveriş merkezi kontrol ve arama noktasında görevli özel güvenlik görevlileri Çetin ve Metin’in yaptıkları kontrol sırasında, bir şahsın şüpheli tavırları dikkat çeker. X-ray cihazından geçirilen valizin içinde poşetlenmiş bir madde tespit edilir. Şahsın beyanı farklı olsa da görevliler bağımlılık yapan madde olabileceğinden şüphelenirler. Bunun üzerine yapılacak işlem aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "B",
+        "id": 17,
+        "secenekA": "5188 sayılı Kanun’a göre hapis cezası verilir",
+        "secenekB": "5188 sayılı Kanun’a göre özel güvenlik kimliği iptal olur ve bir daha özel güvenlik alanında çalışamaz",
+        "secenekC": "5188 sayılı Kanun’a göre sadece idari para cezası verilir ve işten çıkarılır",
+        "secenekD": "5188 sayılı Kanun’a göre sadece özel güvenlik kimlik kartı iptal edilir",
+        "secenekE": "5188 sayılı Kanun’a göre bir yılın altında hapis cezası adli para cezasına çevrilir ve özel güvenlik kimlik kartı iptal edilir",
+        "soru": "Ankara’da lisede çalışan özel güvenlik görevlisi Adnan, öğrenciler arasında çıkan kavgada olaya müdahale etmek isteyen yetkili polislere okula silahla giremezsiniz diyerek, engel olmaya çalışmıştır. Bu durumda kamu görevlisine karşı görevini yapmasını engellemekten dolayı ne ceza verilir?"
+    },
+    {
+        "cevap": "B",
+        "id": 18,
+        "secenekA": "I, V",
+        "secenekB": "I, II, III",
+        "secenekC": "IV, V",
+        "secenekD": "III, IV",
+        "secenekE": "II, IV",
+        "soru": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanuna göre özel güvenlik eğitimini kimler verebilir? I.İçişleri Bakanlığı II.Özel güvenlik eğitim kurumları III.Üniversiteler IV.Milli Eğitim Bakanlığına bağlı özel okullar V.Özel öğretmenler"
+    },
+    {
+        "cevap": "E",
+        "id": 19,
+        "secenekA": "Meydana gelen bir olayın gerçekten adli olay olup olmadığını belirlemek",
+        "secenekB": "Olayın tahmin edilen biçimde ve koşullarda meydana gelip gelmediğini ortaya çıkarmak",
+        "secenekC": "İşlenen suçun aydınlatılması ve adli makamların olayla ilgili olarak karar vermesini sağlamak amacıyla olay yerini belgelemek",
+        "secenekD": "Olay yeri, fail ve mağdur bağlantısını kuracak maddi suç delillerine ulaşmak",
+        "secenekE": "Olay yerinin inceleyenlerin tutum ve davranışlarını belirlemek",
+        "soru": "Aşağıdakilerden hangisi olay yeri incelemesinin amacı değildir?"
+    },
+    {
+        "cevap": "B",
+        "id": 20,
+        "secenekA": "Kontrol noktasının riskler belirlenerek başlanır",
+        "secenekB": "Korunan binaya ait kontrolsüz giriş ve çıkış noktaları olmalıdır",
+        "secenekC": "Kontrol noktaları iş yoğunluğu ve özel güvenlik görevlilerinin sayısına göre dizayn edilmelidir",
+        "secenekD": "Belirlenen risklerin durumuna göre güvenlik halkaları oluşturulur",
+        "secenekE": "Kontrol noktaları korunan yerin en önemli unsurlarındandır",
+        "soru": "Aşağıdakilerden hangisi kontrol noktasının özelliklerinden biri değildir?"
+    },
+    {
+        "cevap": "E",
+        "id": 21,
+        "secenekA": "2559 sayılı Polis Vazife ve Salahiyet Kanunu",
+        "secenekB": "3201 sayılı Emniyet Teşkilatı Kanunu",
+        "secenekC": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun",
+        "secenekD": "5237 sayılı Türk Ceza Kanunu",
+        "secenekE": "5442 sayılı İl İdaresi Kanunu",
+        "soru": "Kamu düzeni ve güvenliğinin sağlanmasında mülki idare amirleri havalimanı, liman, gümrük, gar ve istasyon gibi yerler ile spor müsabakalarının, sahne gösterilerinin ve benzeri etkinliklerin yapıldığı yerlerdeki özel güvenlik tedbirlerini denetlemeye ve kamu güvenliğinin gerektiği hallerde ek önlemler aldırmaya yetkilidir. Vali ve Kaymakamlara bu yetkiyi veren kanun aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "D",
+        "id": 22,
+        "secenekA": "Ziyaretçiler ve beraberinde getirdiği eşyalar kontrol edilerek içeri alınmalıdır",
+        "secenekB": "Özel güvenlik görevlileri ziyaretçilerin kimliklerinin fotokopisini almamalı ve depolamamalıdır",
+        "secenekC": "Ziyaretçi, giriş kartı ile sadece yetki verilen bölgeye gidebilmelidir",
+        "secenekD": "Kurum ve kuruluşa sık gelip giden ziyaretçi kontrol edilmemelidir",
+        "secenekE": "Personel ile beraber kuruma gelen ziyaretçi kendisine verilen kartı okutarak içeriye alınmalıdır",
+        "soru": "Kurum ve kuruluşa gelen ziyaretçilerin kontrolünde aşağıdaki uygulamalardan hangisi uygun olmaz?"
+    },
+    {
+        "cevap": "B",
+        "id": 23,
+        "secenekA": "Seyirciler seyir alanına alınmadan önce spor alanında bulunmak",
+        "secenekB": "Spor alanı içerisinde düzeni bozan fiili işleyen seyirciyi en yakın belediye zabıtasına bildirmek",
+        "secenekC": "Spor alanı güvenlik planında belirtilen görev tanımlarına uygun olarak, spor alanında görev almak",
+        "secenekD": "Spor alanında uyuşturucu etkisinde olan taraftarın dışarıya çıkartılmasını sağlamak",
+        "secenekE": "Spor alanında ev sahibi takım ile misafir takım seyircileri arasındaki geçişleri engellemek",
+        "soru": "Aşağıdakilerden hangisi spor alanında görevli özel güvenlik görevlileri Hakan ile Ahmet’in görev, yetki ve sorumluluklarından biri değildir?"
+    },
+    {
+        "cevap": "D",
+        "id": 24,
+        "secenekA": "Özgürlük ve güvenlik dengesi",
+        "secenekB": "Caydırıcı olması",
+        "secenekC": "Dinamik olması",
+        "secenekD": "Teşvik edici olması",
+        "secenekE": "Fayda ve maliyet dengesi",
+        "soru": "“Koruma altına alınacak yerde yapılan araştırmalar neticesinde kişi, kurum ve kuruluşların konumu, yürüttüğü faaliyetleri ile güncel olaylar dikkate alınarak gerekli tedbirlerin alınması amacıyla risk analizi ve güvenlik planlaması yapılmaktadır”. Aşağıdakilerden hangisi risk analizi ve güvenlik planlaması yapılırken dikkate alınması gereken ana kriterlerden biri değildir?"
+    },
+    {
+        "cevap": "A",
+        "id": 25,
+        "secenekA": "Seyirciler seyir alanına alındıktan sonra spor alanından ayrılmak",
+        "secenekB": "Spor alanı güvenlik planında belirtilen görev tanımlarına uygun olarak, spor alanında görev almak",
+        "secenekC": "Spor alanında alkollü olan taraftarların dışarıya çıkartılmasını sağlamak",
+        "secenekD": "Spor alanında ev sahibi takım ile misafir takım seyircileri arasındaki geçişleri engellemek",
+        "secenekE": "Spor alanı içerisinde düzeni bozan fiilleri işleyen seyircileri en yakın genel kolluk görevlisine bildirmek",
+        "soru": "Spor alanında görevli özel güvenlik görevlileri Yaşar ile Sami’nin hangi davranışı yanlıştır?"
+    },
+    {
+        "cevap": "A",
+        "id": 26,
+        "secenekA": "Şüphelilerin ifadesini almak",
+        "secenekB": "Olay yerini ve suç delillerini muhafaza etmek",
+        "secenekC": "Suçun devamını önlemek",
+        "secenekD": "Genel kolluğun talebi ile yardımcı olmak",
+        "secenekE": "Suça karışanları yakalamak",
+        "soru": "Özel güvenlik görevlileri görev alanları içerisinde meydana gelen bir suç ile ilgili olarak aşağıdakilerden hangisi görev ve yetki alanlarına girmez?"
+    },
+    {
+        "cevap": "C",
+        "id": 27,
+        "secenekA": "Devriye görevi sırasında güzergah dahil, çevreyi de gözetlemek",
+        "secenekB": "Güzergâhta mümkün olduğunca görünür olmak",
+        "secenekC": "Müdahale imkanı olsa bile, önce kolluğu aramak",
+        "secenekD": "Park alanında trafiği engellememesi için müşterileri yönlendirmek",
+        "secenekE": "Devriye görevini aksatmadan vatandaşların yardım taleplerine cevap vermek",
+        "soru": "Aşağıdakilerden hangisi AVM’de devriye görevini yerine getiren özel güvenlik görevlisi Ayşe’nin görevi ile bağdaşmaz?"
+    },
+    {
+        "cevap": "A",
+        "id": 28,
+        "secenekA": "Raporların A4 ve ya A5 kâğıda yazılır",
+        "secenekB": "Raporların açık ve özlü olur",
+        "secenekC": "Gereksiz bilgilere yer verilmez",
+        "secenekD": "Sunulan bilgiler tam ve doyurucu olmalıdır",
+        "secenekE": "Gerektiğinde detaylı olmalıdır",
+        "soru": "Rapor yazımında uyulması ve dikkat edilmesi gereken kurallar vardır. Aşağıdakilerden hangisi özel güvenlik görevlisince hazırlanan raporun içerik kurallarından birisi değildir?"
+    },
+    {
+        "cevap": "B",
+        "id": 29,
+        "secenekA": "Suç işlenmesini önleme ve görev alanı içerisinde bulunan kişilerin can ve mal güvenliğini sağlama",
+        "secenekB": "Olay yerindeki iz ve delilleri inceleme",
+        "secenekC": "Toplantı, konser, spor müsabakası, sahne gösterileri ve benzeri etkinlikler ile cenaze ve düğün törenlerinde kimlik sorma",
+        "secenekD": "Hava meydanı, liman, gar, istasyon ve terminal gibi toplu ulaşım tesislerinde kimlik sorma",
+        "secenekE": "Kişinin vücudu veya sağlığı bakımından mevcut bir tehlikeden korunması amacıyla yakalama",
+        "soru": "Aşağıdakilerden hangisi, önleyici görevler arasında değildir?"
+    },
+    {
+        "cevap": "B",
+        "id": 30,
+        "secenekA": "Gözenekli ve gözeneksiz yüzeylerde bulunabilir",
+        "secenekB": "Kuru yüzeylerde sadece görünmez halde bulunabilir",
+        "secenekC": "Yağlı ve yapışkan yüzeylerde bulunabilir",
+        "secenekD": "Islak yüzeylerde bulunabilir",
+        "secenekE": "Yüzeylerde görünür ya da görünmez halde bulunabilir",
+        "soru": "“İnsan bedenindeki parmak, avuç, ayak, diş gibi organların bıraktığı kimlik tespitine yarayabilecek izlere bireysel tanımlayıcı izler denir.” Aşağıdakilerden hangisi bireysel tanımlayıcı izlerle ilgili doğru bir ifade değildir?"
+    },
+    {
+        "cevap": "E",
+        "id": 31,
+        "secenekA": "I-IV",
+        "secenekB": "II-IV",
+        "secenekC": "I-II-IV",
+        "secenekD": "I-II-III-V",
+        "secenekE": "I-II-V",
+        "soru": "Parmak izi özellikleri ile ilgili olarak aşağıda verilen ifadelerden hangileri doğrudur? I. Değişmez ve değiştirilemez II. Benzemez ve benzetilemez III. Tasnif edilemez IV. Kanlı ve yağlı yüzeylerde bulunmaz V. Gözenekli ve gözeneksiz yüzeylerde bulunur"
+    },
+    {
+        "cevap": "A",
+        "id": 32,
+        "secenekA": "Mağdurların verdiği ifadeler",
+        "secenekB": "Kan, ter ve kıllar",
+        "secenekC": "Parmak ve ayak izleri",
+        "secenekD": "Doku ve kemik parçaları",
+        "secenekE": "Yanıcı ve yakıcı maddeler",
+        "soru": "Aşağıdakilerden hangisi beyan deliller arasında yer alır?"
+    },
+    {
+        "cevap": "C",
+        "id": 33,
+        "secenekA": "Eşyalarını X-ray cihazından geçirmek istemeyen kişiyi korunan alana alır",
+        "secenekB": "Taşıma ruhsatıyla giriş yapmak isteyen muhtarın silahını emanete alır",
+        "secenekC": "Yaşlı, çocuk, engelli ve hamilelerin girişinde gerekli hassasiyeti gösterir",
+        "secenekD": "Kapı detektöründen aynı anda olabildiğince fazla kişinin geçmesini sağlar",
+        "secenekE": "Şüpheli şahısların X-ray cihazından geçmelerini sağlar",
+        "soru": "Aşağıdakilerden hangisi AVM yaya giriş kontrol noktasında görevli özel güvenlik görevlisi Ahmet’in yapması gereken doğru uygulamalardan biridir?"
+    },
+    {
+        "cevap": "B",
+        "id": 34,
+        "secenekA": "Planlı devriye",
+        "secenekB": "Rutin devriye",
+        "secenekC": "Geri dönüşlü devriye",
+        "secenekD": "Dairesel devriye",
+        "secenekE": "Belirsiz devriye",
+        "soru": "Aşağıdakilerden hangisi, özel güvenlik görevlilerinin devriye bölgesinde gelişi güzel gezmesiyle yerine getirdiği devriye yöntemidir?"
+    },
+    {
+        "cevap": "A",
+        "id": 35,
+        "secenekA": "Ağırlığı",
+        "secenekB": "Markası",
+        "secenekC": "Fişek sayısı",
+        "secenekD": "Çapı",
+        "secenekE": "Seri numarası",
+        "soru": "Suçta kullanıldığı tespit edilen tabanca için tutulan tutanakta aşağıdakilerden hangi bilginin olması zorunlu değildir?"
+    },
+    {
+        "cevap": "C",
+        "id": 36,
+        "secenekA": "İhbar tutanağı",
+        "secenekB": "Emanete alma tutanağı",
+        "secenekC": "Yer gösterme tutanağı",
+        "secenekD": "Suçüstü tutanağı",
+        "secenekE": "Nöbet devir teslim tutanağı",
+        "soru": "Aşağıdakilerden hangisi özel güvenlik görevlisi tarafından tutulan tutanaklardan biri değildir?"
+    },
+    {
+        "cevap": "C",
+        "id": 37,
+        "secenekA": "Ay ışığına",
+        "secenekB": "İnfrared aydınlatmaya",
+        "secenekC": "Vücut ısısına",
+        "secenekD": "Çevrenin özelliğine",
+        "secenekE": "Güç kaynağına",
+        "soru": "“Termal kameralar …………. bağlı olarak aydınlatma olmadan görüntü almak amacı ile kullanılan kameralardır” ifadesinde boşluğu tamamlayan doğru kelime aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "D",
+        "id": 38,
+        "secenekA": "Parmakizi",
+        "secenekB": "İris tanıma",
+        "secenekC": "Yüz tanıma",
+        "secenekD": "Kartlı geçiş",
+        "secenekE": "Ses Karakteristiği",
+        "soru": "Aşağıdakilerden hangisi biometrik kontrollü geçiş sistemlerinden biri değildir?"
+    },
+    {
+        "cevap": "D",
+        "id": 39,
+        "secenekA": "Yüz tanıma sistemi",
+        "secenekB": "Parmakizi tanıma sistemi",
+        "secenekC": "Kart kontrollü geçiş sistemi",
+        "secenekD": "EDS-EDDS sistemi",
+        "secenekE": "CCTV sistemi",
+        "soru": "Sadece havalimanları havaalanlarında kullanılan sistem aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "A",
+        "id": 40,
+        "secenekA": "Metal sigara tabakası",
+        "secenekB": "Hamur mayası",
+        "secenekC": "C-4 plastik patlayıcı",
+        "secenekD": "Plastik jop",
+        "secenekE": "Plastik tarak",
+        "soru": "Kapı tipi metal arama dedektörleri aşağıda verilen hangi malzemenin tespitinde alarm üretir?"
+    },
+    {
+        "cevap": "E",
+        "id": 41,
+        "secenekA": "Gaz dedektörü",
+        "secenekB": "X-Ray cihazı",
+        "secenekC": "Kart okuyucu",
+        "secenekD": "El tipi metal arama dedektörü",
+        "secenekE": "İz dedektörü",
+        "soru": "Aşağıdaki cihazlardan hangisi Nanogram seviyesindeki partikülleri-iz kalıntılarını tespit eder?"
+    },
+    {
+        "cevap": "A",
+        "id": 42,
+        "secenekA": "Ağız içi kontrolü",
+        "secenekB": "2. Değerlendirme",
+        "secenekC": "Suni teneffüs",
+        "secenekD": "Kalp masajı",
+        "secenekE": "Şok pozisyonu",
+        "soru": "Baş geri çene yukarı kaldırılmadan hemen önce ne yapılmalıdır?"
+    },
+    {
+        "cevap": "D",
+        "id": 43,
+        "secenekA": "İyi bir iletişim becerisine sahip olmalıdır",
+        "secenekB": "Sakin, kendine güvenmeli ve pratik olmalıdır",
+        "secenekC": "Önce kendi can güvenliğini korumalıdır",
+        "secenekD": "İlkyardımda kullanabileceği malzemeleri sürekli yanında taşımalıdır",
+        "secenekE": "İlkyardım eğitimi almış olmalıdır",
+        "soru": "Aşağıdakilerden hangisi ilkyardımcıda bulunması gereken özelliklerden biri değildir?"
+    },
+    {
+        "cevap": "B",
+        "id": 44,
+        "secenekA": "Ağızdan yiyecek ya da içecek bir şey verilmez",
+        "secenekB": "Karın bölgesine saplanmış cisim varsa çıkartılır",
+        "secenekC": "Dışarı çıkan organlar içeri sokulmaya çalışılmaz",
+        "secenekD": "Üzerine geniş ve nemli temiz bir bez örtülür",
+        "secenekE": "Yaşam bulguları sık sık izlenir",
+        "soru": "Delici karın yaralanmalarında yapılacak ilk yardım aşamasında aşağıda belirtilen müdahale biçimlerinden hangisi yanlıştır?"
+    },
+    {
+        "cevap": "A",
+        "id": 45,
+        "secenekA": "Olay yerinin hızla havalanması sağlanarak zehirli maddenin etkisi azaltılmaya çalışılır",
+        "secenekB": "Hasta-yaralının ABC’si değerlendirilmelidir",
+        "secenekC": "Hasta-yaralıya suni solunum uygulanmalıdır",
+        "secenekD": "Hasta-yaralı koma pozisyonuna getirilmelidir",
+        "secenekE": "112 aranarak yardım istenir",
+        "soru": "Solunum yolu zehirlenmelerinde öncelikle yapılması gereken ilkyardım uygulaması aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "E",
+        "id": 46,
+        "secenekA": "Hemen aranır",
+        "secenekB": "İlk yardımcı yalnızsa bilinç kontrolünden hemen sonra aranır",
+        "secenekC": "İlk yardımcı 1 tur temel yaşam desteğinden sonra etrafındaki kişilere aratır",
+        "secenekD": "Kurtarıcı nefes verdikten sonra kendisi arar",
+        "secenekE": "İlk yardımcı 5 tur temel yaşam desteğinden sonra kendisi arar",
+        "soru": "Çocuk ve bebekte ilk yardımcı yalnızsa 112 ne zaman aranır?"
+    },
+    {
+        "cevap": "D",
+        "id": 47,
+        "secenekA": "İlk yardımcı kendi sağlığını riske atmamalıdır",
+        "secenekB": "Güçlü olan kişi baş tarafında olmalıdır",
+        "secenekC": "Hasta/Yaralı mümkün olduğunca az hareket ettirilmelidir",
+        "secenekD": "Taşımada ayak tarafındaki kişi komut veren olmalıdır",
+        "secenekE": "Taşımada baş tarafındaki kişi komut veren olmalıdır",
+        "soru": "Hasta taşımadaki genel kurallardan aşağıdakilerden hangisi yanlıştır?"
+    },
+    {
+        "cevap": "E",
+        "id": 48,
+        "secenekA": "Soğuk ile temas kesilir",
+        "secenekB": "Hasta/yaralının yaşam bulguları değerlendirilir",
+        "secenekC": "Hasta/yaralıya kuru giysiler giydirilir",
+        "secenekD": "Su toplamış deri bölgeleri patlatılmaz",
+        "secenekE": "Donmuş bölge kuvvetlice ovalanarak ısınması sağlanır",
+        "soru": "Donmalarda yapılması gereken ilkyardım ile ilgili aşağıdakilerden hangisi yanlıştır?"
+    },
+    {
+        "cevap": "E",
+        "id": 49,
+        "secenekA": "Yaradaki kanın rahat akması sağlanır",
+        "secenekB": "Yaraya saplanan cisimler hızlıca çıkarılır",
+        "secenekC": "Yaranın içine saplanan cisimler olup olmadığının anlaşılması için yara kurcalanır",
+        "secenekD": "Mikrop kapmaması için yaraya ilaçlı krem sürülür",
+        "secenekE": "Yara temiz bir bezle örtülür, kanama varsa bu bezle baskı yapılır",
+        "soru": "Oyun parkında bisikletten düşen bir çocuğun yarasına yapılacak ilkyardım ile ilgili aşağıdakilerden hangisi doğrudur?"
+    },
+    {
+        "cevap": "D",
+        "id": 50,
+        "secenekA": "Hasta/yaralının ikinci bir kazaya uğramaması için çevre güvenliği sağlanır",
+        "secenekB": "Bilinç kontrolü yapılır",
+        "secenekC": "Hasta/yaralı sert bir zemine sırt üstü yatırılır",
+        "secenekD": "Hasta/yaralının hava yolu açıklığı değerlendirilmeden derhal kurtarıcı nefes verilir",
+        "secenekE": "Hasta/yaralının solunum değerlendirilmesi için bak, dinle ve hisset uygulaması yapılır",
+        "soru": "Yetişkin bir hasta/yaralıya yapılacak temel yaşam desteği ile ilgili aşağıdakilerden hangisi yanlıştır?"
+    },
+    {
+        "cevap": "E",
+        "id": 51,
+        "secenekA": "Yara bölgesine hemen dikiş atılır",
+        "secenekB": "Damar uçları bulunarak bağlanır",
+        "secenekC": "Toplardamar kanının akmasına izin verilir",
+        "secenekD": "Damar yolu açılarak sıvı verilir",
+        "secenekE": "Kanayan yerin üzerine temiz bir bezle baskı uygulanır",
+        "soru": "Kesici alet yaralanması nedeniyle oluşan kanamalara yapılacak müdahalede ilkyardımcının yapması gereken ilk uygulama aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "A",
+        "id": 52,
+        "secenekA": "Alüminyum",
+        "secenekB": "Tiner",
+        "secenekC": "Şeker",
+        "secenekD": "Plastik",
+        "secenekE": "Kömür",
+        "soru": "Aşağıdaki yanıcı maddelerin hangisi D sınıfı yanıcı maddeler içerisinde yer alır?"
+    },
+    {
+        "cevap": "B",
+        "id": 53,
+        "secenekA": "Su",
+        "secenekB": "Köpük",
+        "secenekC": "Kum",
+        "secenekD": "Karbondioksit",
+        "secenekE": "Kuru kimyevi toz",
+        "soru": "Hava, su ve deterjandan oluşan, yangın söndürme maddesi olarak kullanılan söndürücü aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "A",
+        "id": 54,
+        "secenekA": "Yavaş yanma",
+        "secenekB": "Kendi kendine yanma",
+        "secenekC": "Hızlı yanma",
+        "secenekD": "Parlama ve patlama şeklinde yanma",
+        "secenekE": "Oksijensiz yanma",
+        "soru": "Alev, ısı, ışık ve korlaşma görülmeyen yanma şekli aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "B",
+        "id": 55,
+        "secenekA": "Yangın butonu",
+        "secenekB": "Dedektör",
+        "secenekC": "Siren",
+        "secenekD": "Sprinkler",
+        "secenekE": "Yangın dolabı",
+        "soru": "Bulunduğu alanlardaki ani ısı değişiklikleri, duman oluşumu, alev oluşumu gibi değişiklikleri algılayan cihazlara ne denir?"
+    },
+    {
+        "cevap": "D",
+        "id": 56,
+        "secenekA": "Kum",
+        "secenekB": "D tozu",
+        "secenekC": "Toprak",
+        "secenekD": "Su",
+        "secenekE": "Kuru kimyevi toz",
+        "soru": "Hafif metal yangınlarında aşağıdaki söndürme maddelerinden hangisi kesinlikle kullanılmaz?"
+    },
+    {
+        "cevap": "A",
+        "id": 57,
+        "secenekA": "Çığ",
+        "secenekB": "Heyelan",
+        "secenekC": "Erozyon asan",
+        "secenekD": "Tsunami",
+        "secenekE": "Deprem",
+        "soru": "Dağlık ve eğimli arazilerde vadi yamaçlarında birikmiş olan kar kütlesinin yamaçtan aşağı doğru kayması olayına ne denir?"
+    },
+    {
+        "cevap": "A",
+        "id": 58,
+        "secenekA": "1.Grup Gazlar",
+        "secenekB": "2.Grup Gazlar",
+        "secenekC": "3.Grup Gazlar",
+        "secenekD": "4.Grup Gazlar",
+        "secenekE": "5.Grup Gazlar",
+        "soru": "Hidrojen, Metan, Etan, Propan vb. olarak bilinen bu tür gazlar bulundukları alandaki oksijeni bertaraf ettikleri için oksijen yetersizliğine neden olmaktadır. Bu tür gazlar hangi grup gazlar olarak nitelendirilir?"
+    },
+    {
+        "cevap": "B",
+        "id": 59,
+        "secenekA": "Genleşme tehlikesi",
+        "secenekB": "Yüksek sıcaklık tehlikesi",
+        "secenekC": "Kopma tehlikesi",
+        "secenekD": "Taşma tehlikesi",
+        "secenekE": "Kırılma tehlikesi",
+        "soru": "Aşağıdakilerden hangisi yangın yerindeki tehlikelerden biridir?"
+    },
+    {
+        "cevap": "A",
+        "id": 60,
+        "secenekA": "Esrar",
+        "secenekB": "Morfin",
+        "secenekC": "Eroin",
+        "secenekD": "Afyon",
+        "secenekE": "Metadon",
+        "soru": "Aşağıdakilerden hangisi Merkezi Sinir Sistemini yavaşlatan uyuşturucular arasında yer almaz?"
+    },
+    {
+        "cevap": "B",
+        "id": 61,
+        "secenekA": "Kokain",
+        "secenekB": "Captagon",
+        "secenekC": "Esrar",
+        "secenekD": "Eroin",
+        "secenekE": "Afyon sakızı",
+        "soru": "Aşağıdakilerden hangisi sentetik uyuşturuculara verilecek örneklerdendir?"
+    },
+    {
+        "cevap": "B",
+        "id": 62,
+        "secenekA": "İletiyi alan kişi",
+        "secenekB": "İletiyi ileten kişi",
+        "secenekC": "İletiyi değiştiren kişi",
+        "secenekD": "İletiyi yöneten kişi",
+        "secenekE": "İletiyi kaydeden kişi",
+        "soru": "İletişimde \"kaynak\" ne anlama gelir?"
+    },
+    {
+        "cevap": "D",
+        "id": 63,
+        "secenekA": "Aktif dinlemek",
+        "secenekB": "Duygularını karşı tarafa anlatmak",
+        "secenekC": "Karşı tarafın bakış açısını anlamaya çalışmak",
+        "secenekD": "Karşı tarafı yargılamak",
+        "secenekE": "Empati cümleleri kurmak",
+        "soru": "Aşağıdakilerden hangisi etkili bir empati kurma yöntemi değildir?"
+    },
+    {
+        "cevap": "C",
+        "id": 64,
+        "secenekA": "İletişim",
+        "secenekB": "Sempati",
+        "secenekC": "Empati",
+        "secenekD": "Geri bildirim",
+        "secenekE": "Aktif dinleme",
+        "soru": "“Bir kişinin başka birinin duygularını anlamaya çalışarak aynı hisleri yaşaması” ifadesi ile aşağıdakilerden hangisi tanımlanmaktadır?"
+    },
+    {
+        "cevap": "C",
+        "id": 65,
+        "secenekA": "Empati",
+        "secenekB": "Sempati",
+        "secenekC": "Mesaj",
+        "secenekD": "Zaman",
+        "secenekE": "Mekan",
+        "soru": "Aşağıdakilerden hangisi iletişimin temel unsurlarından biridir?"
+    },
+    {
+        "cevap": "C",
+        "id": 66,
+        "secenekA": "Göz teması kurmak",
+        "secenekB": "Not almak",
+        "secenekC": "Konuşmacının sözünü kesmek",
+        "secenekD": "Davranışlarla tasdik etmek",
+        "secenekE": "Empati kurmak",
+        "soru": "Aşağıdakilerden hangisi etkili dinleme tekniklerinden biri değildir?"
+    },
+    {
+        "cevap": "D",
+        "id": 67,
+        "secenekA": "Kaynak",
+        "secenekB": "Mesaj",
+        "secenekC": "Alıcı",
+        "secenekD": "İkon",
+        "secenekE": "Kanal",
+        "soru": "Aşağıdakilerden hangisi temel iletişim ögeleri arasında yer almaz?"
+    },
+    {
+        "cevap": "D",
+        "id": 68,
+        "secenekA": "Yatay iletişim",
+        "secenekB": "Örgüt içi iletişim",
+        "secenekC": "Grup iletişimi",
+        "secenekD": "Kitle iletişimi",
+        "secenekE": "Yüz yüze iletişim",
+        "soru": "Mesajın bazı iletişim araçları kullanılmak suretiyle, belirli bir kaynaktan çok sayıda kişiyi etkileyecek şekilde tek yönlü olarak iletildiği iletişim şekli aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "B",
+        "id": 69,
+        "secenekA": "Bilinçli veya bilinçsiz olarak gerçekleşebilir",
+        "secenekB": "Kaynağın aktif olduğu tek taraflı bir süreçtir",
+        "secenekC": "Meydana geldiği ortamdan etkilenir",
+        "secenekD": "Beden diliyle gerçekleşebilir",
+        "secenekE": "Bilgi ve duygu alışverişidir",
+        "soru": "Aşağıdakilerden hangisi iletişimin temel özelliklerinden biri değildir?"
+    },
+    {
+        "cevap": "D",
+        "id": 70,
+        "secenekA": "Duyarsızlık",
+        "secenekB": "Alınganlık",
+        "secenekC": "Kararsızlık",
+        "secenekD": "Kendine güvenmek",
+        "secenekE": "Benmerkezcilik",
+        "soru": "Aşağıdakilerden hangisi iletişim engellerinden biri değildir?"
+    },
+    {
+        "cevap": "B",
+        "id": 71,
+        "secenekA": "Göz teması kurma",
+        "secenekB": "Gizemli bir ses tonuyla konuşma",
+        "secenekC": "Karşı tarafa konuşma fırsatı verme",
+        "secenekD": "Jest ve mimikleri doğru kullanma",
+        "secenekE": "Konuşurken asıl mesajdan uzaklaşmama",
+        "soru": "Aşağıdakilerden hangisi kişiler arası iletişimi olumsuz etkiler?"
+    },
+    {
+        "cevap": "E",
+        "id": 72,
+        "secenekA": "Mesaj",
+        "secenekB": "Kanal",
+        "secenekC": "Kodlama",
+        "secenekD": "Kodu açma",
+        "secenekE": "Geri bildirim",
+        "soru": "Kaynaktan gelen mesajın alıcı tarafından anlaşılıp anlaşılmadığını, anlaşıldı ise nasıl anlaşıldığını anlamayı sağlayan iletişim ögesi aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "A",
+        "id": 73,
+        "secenekA": "Alıcının dikkatini çeken başka bir şey",
+        "secenekB": "Mesajın gönderildiği ortam",
+        "secenekC": "Mesajın şifresinin çözülmesi",
+        "secenekD": "Mesajın gönderildiği kişi",
+        "secenekE": "Mesajın içeriği",
+        "soru": "İletişim sürecinde \"gürültü\" neyi ifade eder?"
+    },
+    {
+        "cevap": "B",
+        "id": 74,
+        "secenekA": "Tesadüfi",
+        "secenekB": "Seyirci",
+        "secenekC": "Saldırgan",
+        "secenekD": "İlgiye dayanan",
+        "secenekE": "Anlamlı",
+        "soru": "Ortak bir ilgi alanı bulunan insanların bir araya gelerek oluşturdukları kalabalıklardır. Bu tür kalabalıklar genellikle yardımlaşmaya ve iş birliği yapmaya hazır kişilerden oluşur. Örneğin bir futbol maçını izleyenler ya da bir konsere katılanlar bu türde kalabalıklardır. İfade edilen kalabalık türü aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "E",
+        "id": 75,
+        "secenekA": "Uzun süreli ilişki içinde bulunurlar",
+        "secenekB": "Kendilerini de grubun üyesi olarak görürler",
+        "secenekC": "Kendi normları kuralları ve yaptırımları vardır",
+        "secenekD": "Ortak amaçları vardır",
+        "secenekE": "Anlık ve geçici ilişkiler kurarlar",
+        "soru": "Gruplar, sıradan kalabalıklardan farklıdır ve grup olmanın şartları vardır. Aşağıdakilerden hangisi grup olma şartlarından biri değildir?"
+    },
+    {
+        "cevap": "B",
+        "id": 76,
+        "secenekA": "Grupla ilgili bir fikri olmadığı için",
+        "secenekB": "Grubu etkilemek ve yönlendirmek için",
+        "secenekC": "Gruba karşı aidiyet duygusu taşımadığı için",
+        "secenekD": "Grubu önemsemediği için",
+        "secenekE": "Grup liderliğini bırakmak için",
+        "soru": "“İnandırma (ikna etme), ödüllendirme, zor kullanma ve ceza” gibi usulleri “Lider” genel olarak hangi amaçla kullanır?"
+    },
+    {
+        "cevap": "B",
+        "id": 77,
+        "secenekA": "Karşı eylemciler",
+        "secenekB": "Ajan provokatör",
+        "secenekC": "Atılganlar",
+        "secenekD": "Destekleyiciler",
+        "secenekE": "Lider",
+        "soru": "‘‘Genellikle karşıt görüşlü bir topluluğun veya göstericilerin arasına karışarak onları taşkınlığa veya suç sayılan eylemlere iten, böylece kendi tarafının ya da örgütünün misilleme yapmasını haklı gösterecek uygun bir ortam hazırlayan kişidir.” Tanımı verilen kişi tipi “Kalabalık içindeki kişi tipleri”nden hangisine aittir?"
+    },
+    {
+        "cevap": "D",
+        "id": 78,
+        "secenekA": "Hakeme başvurma",
+        "secenekB": "İletişimin artırılması",
+        "secenekC": "Zorlama",
+        "secenekD": "Yöneticilik tarzları arasındaki farklılıklar",
+        "secenekE": "Kaynakların artırılması",
+        "soru": "Aşağıdakilerden hangisi çatışmayı önleme yöntemlerinden birisi değildir?"
+    },
+    {
+        "cevap": "D",
+        "id": 79,
+        "secenekA": "Toplumsal olaylarda nasıl davranacağını bilir",
+        "secenekB": "Kalabalıklarla nasıl iletişim kuracağını ve gerektiğinde onları nasıl yönlendireceğini bilir",
+        "secenekC": "Empati yapar, beden dilini pozitif yönde nasıl kullanacağını bilir",
+        "secenekD": "Çevreye ve başkalarının hak ve özgürlüklerine zarar vermeyecek bazı tepkilere hemen müdahale ederek zor kullanması gerektiğini bilir",
+        "secenekE": "Eleştirilere karşı açık olma ve gerçekten dinleyebilme özelliklerine sahiptir",
+        "soru": "Aşağıdakilerden hangisi, toplum psikolojisini iyi bilen bir özel güvenlik görevlisinde bulunması gereken özelliklerden biri değildir?"
+    },
+    {
+        "cevap": "C",
+        "id": 80,
+        "secenekA": "Din kuralları",
+        "secenekB": "Ahlak kuralları",
+        "secenekC": "Fizik kuralları",
+        "secenekD": "Görgü kuralları",
+        "secenekE": "Hukuk kuralları",
+        "soru": "Toplum halinde yaşayan insanların yerine getirmek zorunda oldukları ödevleri ve kullanacakları yetkileri gösteren kurallara toplumsal düzen kuralları denilmektedir. Aşağıdakilerden hangisi toplumsal düzen kurallarından değildir?"
+    },
+    {
+        "cevap": "A",
+        "id": 81,
+        "secenekA": "Topluluk veya kalabalığı bölmek ve yanlara doğru dağıtmak",
+        "secenekB": "Yol veya belirli bir alan kapaması yapmak",
+        "secenekC": "Bir bina veya şahsı korumak",
+        "secenekD": "Topluluk veya kalabalığı geriye itmek, belirli bir bölgeden çıkarmak",
+        "secenekE": "İki grubu birbirinden ayırmak",
+        "soru": "Toplumsal olaylarda kullanılan taktik ve düzenlerden biri olan Hat Düzeninin amaçlarından hangisi aşağıda yanlış verilmiştir?"
+    },
+    {
+        "cevap": "B",
+        "id": 82,
+        "secenekA": "Cenaze törenine katılan insanlar",
+        "secenekB": "Konser etkinliklerini izleyen insanlar",
+        "secenekC": "Yasalara aykırı hareket etme arzusunda olan eylemciler",
+        "secenekD": "Greve katılan insanlar",
+        "secenekE": "Pazarda alışveriş yapan insanlar",
+        "soru": "Kalabalık türlerinden olan “Seyirci Kalabalıklara” aşağıdakilerden hangisi örnek olarak verilebilir?"
+    },
+    {
+        "cevap": "D",
+        "id": 83,
+        "secenekA": "Göz yaşartıcı sprey",
+        "secenekB": "Telsiz",
+        "secenekC": "Kelepçe",
+        "secenekD": "Cop",
+        "secenekE": "El feneri",
+        "soru": "“Güvenlik görevlilerince kanunsuz toplantı ve gösteri yürüyüşleri, ayaklanma veya kalabalık protestoları ile bireysel saldırılara karşı kullanılan en uygun savunma, püskürtme, dağıtma ve etkisiz hale getirme teçhizatı olup, genel olarak düz(kısa, orta, uzun), teleskopik(uzayan), tonfa(T) ve elektrikli gibi çeşitleri bulunan teçhizat aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "D",
+        "id": 84,
+        "secenekA": "Acil durum eylem planının hazırlanması",
+        "secenekB": "Önemli kişinin (VIP) ziyaret edeceği mevkiin veya güzergâhın keşfinin yapılması",
+        "secenekC": "Boğma noktalarının belirlenmesi",
+        "secenekD": "Önemli kişinin (VIP) güvenlik planlamasının yapılması",
+        "secenekE": "Ziyaret edilecek mevkide güvenlik amaçlı yerleşim noktalarının tespiti",
+        "soru": "Aşağıdakilerden hangisi, öncü istihbarat çalışmasının amaçlarından biridir?"
+    },
+    {
+        "cevap": "C",
+        "id": 85,
+        "secenekA": "Beş kişi ile koruma düzeni",
+        "secenekB": "Bir kişi ile koruma düzeni",
+        "secenekC": "Çoklu koruma düzeni",
+        "secenekD": "Dört kişi ile koruma düzeni",
+        "secenekE": "Altı kişi ile koruma düzeni",
+        "soru": "Önemli kişiye (VIP) yönelik saldırı riskleri en üst düzeyde kabul edilen ve tehditlere karşı operasyonel olan koruma düzeni aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "A",
+        "id": 86,
+        "secenekA": "Belirli hedefi olmayan eylemler",
+        "secenekB": "Kaçırma, alıkoyma amaçlı eylemler",
+        "secenekC": "Seçilmiş hedeflere yönelik eylemler",
+        "secenekD": "Maddi kaynak temini için yapılan eylemler",
+        "secenekE": "Kişisel amaçlı eylemler",
+        "soru": "Toplumda korku, panik, ümitsizlik, yılgınlık oluşturmak için ayrım yapmadan yapılan eylem türü aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "E",
+        "id": 87,
+        "secenekA": "Yakından yapılan saldırılar",
+        "secenekB": "Uzaktan yapılan saldırılar",
+        "secenekC": "Patlayıcılarla yapılan saldırılar",
+        "secenekD": "VIP’in itibarını düşürücü saldırılar",
+        "secenekE": "Sosyal medyadan yapılan saldırılar",
+        "soru": "Aşağıdakilerden hangisi suikastçilerin sık olarak kullandığı yöntemlerden değildir?"
+    },
+    {
+        "cevap": "C",
+        "id": 88,
+        "secenekA": "Dış çember",
+        "secenekB": "Yakın çember",
+        "secenekC": "İç çember",
+        "secenekD": "Orta çember",
+        "secenekE": "En dış çember",
+        "soru": "Korunan önemli kişinin (VIP) en yakınında, yakın koruma personeli tarafından oluşturulan en güvenli ve en önemli halka aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "B",
+        "id": 89,
+        "secenekA": "Saldırı anında amaç saldırganı yakalamak olmalıdır",
+        "secenekB": "Korunan kişi her ortamda korunmalıdır",
+        "secenekC": "Korunan kişinin özel ve resmi tüm istekleri yerine getirilmelidir",
+        "secenekD": "Koruma personeli görevini yaparken başka konularla da ilgilenmelidir",
+        "secenekE": "Koruma görevi yerine getirilirken korunan kişi engellenmeli ve hareketleri kısıtlanmalıdır",
+        "soru": "Aşağıdakilerden hangisi, temel koruma prensiplerinden biridir?"
+    },
+    {
+        "cevap": "A",
+        "id": 90,
+        "secenekA": "Devletin halk nazarında ve yabancı devletler nezdinde itibarını yükseltmek",
+        "secenekB": "Toplumda kargaşa çıkarmak",
+        "secenekC": "Toplumda ikilik yaratmak, halkı galeyana getirmek",
+        "secenekD": "Devletlerarası siyasi ilişkileri gerginleştirmek",
+        "secenekE": "Devlet yönetiminde boşluk meydana getirmek",
+        "soru": "Aşağıdakilerden hangisi, suikastların genel amaçlarından biri değildir?"
+    },
+    {
+        "cevap": "E",
+        "id": 91,
+        "secenekA": "Öncü koruma aracı",
+        "secenekB": "Sağ artçı koruma aracı",
+        "secenekC": "Öncü istihbarat aracı",
+        "secenekD": "Yerel koruma aracı",
+        "secenekE": "Karşı müdahale (CAT) ekibi aracı",
+        "soru": "Araçlı koruma düzeninde, çok önemli kişiye (VIP) yapılacak olası bir saldırıya karşı koyacak ekibin yer aldığı cip, minibüs veya benzeri güçlü ve arazi tipi olarak tercih edilen araç aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "B",
+        "id": 92,
+        "secenekA": "Herhangi bir tehlike ile karşı karşıya kalındığında tehlikeyi uygun usullerle bertaraf etmek",
+        "secenekB": "Saldırı başlamışsa ilk iş çatışmaya girmek",
+        "secenekC": "Önemli kişiye (VIP) saldırının mahiyetine göre hareket etmek, saldırıyı bertaraf etmek",
+        "secenekD": "Muhtemel tehlikeyi ortadan kaldırmak için tehlikenin mahiyetini bilmek",
+        "secenekE": "Önemli kişiyi (VIP) her şekilde korumak",
+        "soru": "Koruma görevinin ifasında, aşağıda verilen bilgilerden hangisi yanlıştır?"
+    },
+    {
+        "cevap": "A",
+        "id": 93,
+        "secenekA": "Ekonomik iletişim",
+        "secenekB": "Özel güvenlik görevlilerine yapılan bildirimin kayıt altına alınması",
+        "secenekC": "Gerektiğinde genel kolluk görevlilerine bildirim kapsamında uygulama üzerinden fotoğraf paylaşımı",
+        "secenekD": "Devam etmekte olan bir olayı genel kolluğa hızlı bir şekilde bildirerek, müdahale ve yardımın hızlandırılması",
+        "secenekE": "Olayların etkin bir şekilde genel kolluğa bildirilmesi",
+        "soru": "Aşağıdakilerden hangisi KAAN EGM Mobil Uygulamasının sağladığı imkânlardan birisi değildir?"
+    },
+    {
+        "cevap": "E",
+        "id": 94,
+        "secenekA": "İşlenmiş olan suçu uygun bir zamanda yetkili genel kolluğa bildirmek",
+        "secenekB": "Suç önleyici davranışlar konusunda rahat olmak",
+        "secenekC": "Mülki idare amiri ve yetkili kolluk amirinin sadece yazılı emirlerini yerine getirmek",
+        "secenekD": "Görev alanında suça karışan kişiyi sadece üniformalı genel kolluğa teslim etmek",
+        "secenekE": "Görev alanında suça karışan kişiyi yetkili genel kolluğa teslim etmek",
+        "soru": "Aşağıdaki şıklardan hangisi genel kolluk-özel güvenlik ilişkileri açısından doğrudur?"
+    },
+    {
+        "cevap": "B",
+        "id": 95,
+        "secenekA": "Durdurma ve kimlik sorma yetkisi",
+        "secenekB": "Yargılama yetkisi",
+        "secenekC": "Silah kullanma yetkisi",
+        "secenekD": "Yakalama yetkisi",
+        "secenekE": "Zor kullanma yetkisi",
+        "soru": "Aşağıdakilerden hangisi genel kolluğun görev yetkilerinden biri değildir?"
+    },
+    {
+        "cevap": "D",
+        "id": 96,
+        "secenekA": "I, II, III",
+        "secenekB": "I, IV, V",
+        "secenekC": "I, III",
+        "secenekD": "I, II",
+        "secenekE": "IV, V",
+        "soru": "I) KAAN II) ÖZGE III) PATBİS IV) UYUMA V) KADES Yukarıdakilerden hangileri Özel Güvenlik Denetleme Başkanlığı tarafından Özel güvenlik alanında geliştirilen projelerdendir?"
+    },
+    {
+        "cevap": "B",
+        "id": 97,
+        "secenekA": "Özel Güvenlik Temel ve Yenileme Eğitim Sınavı",
+        "secenekB": "Ehliyet Sınavı",
+        "secenekC": "Silah Tamir Yeri Açma Sınavı",
+        "secenekD": "Ateşleyici Yeterlilik Belgesi Sınavı",
+        "secenekE": "Görev Köpeği ve İdarecisi Sınavı",
+        "soru": "Aşağıdakilerden hangisi Özel Güvenlik Denetleme Başkanlığı tarafından yapılan sınavlardan değildir?"
+    },
+    {
+        "cevap": "A",
+        "id": 98,
+        "secenekA": "Genel Kolluk-Özel Güvenlik işbirliğini kolaylaştırmak",
+        "secenekB": "Trafik kazalarını raporlamak",
+        "secenekC": "Okul müfredatını düzenlemek",
+        "secenekD": "Pasaport başvurularını almak",
+        "secenekE": "Belediye hizmetlerini planlamak",
+        "soru": "KAAN uygulaması aşağıdakilerden hangisi için geliştirilmiştir?"
+    },
+    {
+        "cevap": "A",
+        "id": 99,
+        "secenekA": "İçişleri Bakanlığı",
+        "secenekB": "Adalet Bakanlığı",
+        "secenekC": "Milli Savunma Bakanlığı",
+        "secenekD": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+        "secenekE": "Ulaştırma ve Altyapı Bakanlığı",
+        "soru": "Özel Güvenlik Denetleme Başkanlığı hangi bakanlığa bağlıdır?"
+    },
+    {
+        "cevap": "B",
+        "id": 100,
+        "secenekA": "Sigorta şirketleri",
+        "secenekB": "Özel güvenlik şirketleri",
+        "secenekC": "Gümrük işlemleri",
+        "secenekD": "Askeri üsler",
+        "secenekE": "Gümrük Muhafaza Memurunu denetlemek",
+        "soru": "Aşağıdakilerden hangisi Özel Güvenlik Denetleme Başkanlığı’nın denetim alanlarından biridir?"
+    },
+    {
+        "cevap": "A",
+        "id": 101,
+        "secenekA": "I, III, II, IV",
+        "secenekB": "III, II, I,IV",
+        "secenekC": "IV, I,II, III",
+        "secenekD": "III, IV, I, II",
+        "secenekE": "II, IV, III, I",
+        "soru": "Fişek yatağında fişek bulunan tabancanın güvenli bir şekilde boşaltılması için sırasıyla izlenmesi gereken yol nasıl olmalıdır? I - Tabanca ölü noktaya çevrilir II- Sürgü çekilip gözle fişek yatağı kontrol edilir ve bırakılır III- Şarjör çıkartılır IV- Ölü bölgeye tetik düşürülerek silah kılıfa konulur"
+    },
+    {
+        "cevap": "C",
+        "id": 102,
+        "secenekA": "I-II",
+        "secenekB": "I-III-V",
+        "secenekC": "II-IV",
+        "secenekD": "III-IV",
+        "secenekE": "I-II-IV",
+        "soru": "Aşağıdakilerden hangileri silahın dolduruş yapmasına engel nedenlerden değildir? I. Şarjörde fişek olmayabilir II. İğne yayı kırık olabilir III. Şarjör tutucu pimi arızalı olabilir IV. Barut miktarı az olabilir V. Şarjörde hatalı fişek olabilir."
+    },
+    {
+        "cevap": "C",
+        "id": 103,
+        "secenekA": "II-I-IV-III-V",
+        "secenekB": "V-IV-III-II-I",
+        "secenekC": "II-V-I-III-IV",
+        "secenekD": "III-II-I-V-IV",
+        "secenekE": "IV-I-V-III-II",
+        "soru": "Aşağıdakilerden hangisinde tabancanın sökülme sırası doğru olarak verilmiştir? I. Kapak takımını çıkart (sürgü) II. Şarjörü çıkart III. Yerine getiren yayı çıkart IV. Namluyu çıkart V. Fişek yatağını kontrol et"
+    },
+    {
+        "cevap": "B",
+        "id": 104,
+        "secenekA": "Değişik iklim şartlarında bakım",
+        "secenekB": "Zorunlu bakım",
+        "secenekC": "Haftalık bakım",
+        "secenekD": "Atış öncesi bakım",
+        "secenekE": "Atış sonrası bakım",
+        "soru": "Hangisi silah bakım periyodlarından değildir?"
+    },
+    {
+        "cevap": "E",
+        "id": 105,
+        "secenekA": "Çeşitli şekillerde kullanılarak canlıları yaralayan veya öldüren aletlerdir",
+        "secenekB": "Yakın ve uzaktan, cansızları parçalayan veya yok eden aletlerdir",
+        "secenekC": "Yakın ve uzaktaki canlıları öldüren aletlerdir",
+        "secenekD": "Saldırı ve savunma aletidir",
+        "secenekE": "Uzaktan veya yakından canlıları öldürebilen, yaralayan, etkisiz bırakan, canlı organizmaları hasta eden, cansızları parçalayan, yok eden araç ve aletlerdir",
+        "soru": "Aşağıdakilerden hangisinde silahın tanımı tam olarak verilmiştir?"
+    },
+    {
+        "cevap": "C",
+        "id": 106,
+        "secenekA": "Tırnak yayı kırık olabilir",
+        "secenekB": "Çıkarıcı kırık veya özelliğini kaybetmiş olabilir",
+        "secenekC": "Tetik veya tetik manivelası kırılmış olabilir",
+        "secenekD": "Fişekteki barutun az olmasından dolayı basınç geri tepmeyi yeterince sağlamamış olabilir",
+        "secenekE": "Yerine getiren yay kırık olabilir",
+        "soru": "Silahı ile atış yapan özel güvenlik görevlisi Cemal'in, yaptığı atış sonrasında boş kovan dışarı çıkmamış ve sonraki atışı gerçekleştirememiştir. Bunun sebepleri arasında aşağıdakilerden hangisi söylenemez?"
+    },
+    {
+        "cevap": "E",
+        "id": 107,
+        "secenekA": "Gez, arpacık, boş kovan atma tırnağı",
+        "secenekB": "Gez, arpacık, emniyet mandalı, horoz",
+        "secenekC": "Şarjör çıkarma mandalı, arpacık, gez, boş kovan atma tırnağı",
+        "secenekD": "Nişan tertibatı, boş kovan atma boşluğu, gerdel yayı, tetik muhafazası",
+        "secenekE": "Gez, arpacık, iğne grubu, boş kovan atma boşluğu, boş kovan atma tırnağı",
+        "soru": "Silahını temizlemek için söken ÖGG Tamer, Tabancanın ana parçalarından olan sürgüyü eline aldığında üzerinde göreceği parçalar aşağıdaki hangi şıkta doğru sıralanmıştır?"
+    },
+    {
+        "cevap": "E",
+        "id": 108,
+        "secenekA": "Yerine getiren yayının kırık olması",
+        "secenekB": "Horozun kırık olması",
+        "secenekC": "Tırnağın kırık olması",
+        "secenekD": "Fişeğin arızalı olması",
+        "secenekE": "Gerdelin arızalı olması",
+        "soru": "Atış yapan özel güvenlik görevlisi Dursun, silahının şarjöründeki tüm fişekleri atmasına rağmen silahının sürgüsünün geride kalmamasının nedeni aşağıdakilerden hangisidir?"
+    },
+    {
+        "cevap": "E",
+        "id": 109,
+        "secenekA": "Tetiğe sert biçimde birkaç defa basmalıdır",
+        "secenekB": "Sürgü arka arkaya çekilerek silahın mermiden arındırılması sağlanmalıdır",
+        "secenekC": "Silah havaya doğru çevrilerek en yakın atış yapan özel güvenlik görevlisinden yardım istenmelidir",
+        "secenekD": "Silah atış hattına çevrilerek tetiğe daha sert basılmalıdır",
+        "secenekE": "Silah olduğu yere bırakılarak atış gözlemcisine bilgi verilmelidir",
+        "soru": "Poligonda atış yapan özel güvenlik görevlisinin silahı tutukluk yaptığında öncelikle yapması gereken hareket tarzı ne olmalıdır?"
+    },
+    {
+        "cevap": "D",
+        "id": 110,
+        "secenekA": "Atış sonrası namlunun temizlenmesi gerekmez",
+        "secenekB": "El dolgusu fişekler kullanılmalıdır",
+        "secenekC": "Rutubetli fişekler kullanılmalıdır",
+        "secenekD": "Atışlardan sonra namlu içerisinde kalan kalıntıları harbi ucuna takılan bez ve fırça ile temizlemelidir",
+        "secenekE": "Fabrikasyon olmayan fişekler kullanılmalıdır",
+        "soru": "Özel güvenlik görevlisinin silahının namlu ömrünü uzatmak için aşağıdakilerden hangisini yapması gerekir?"
+    },
+    {
+        "cevap": "C",
+        "id": 111,
+        "secenekA": "Fişeklerde bulunan alev kanalı; Barut gazının çekirdeğe basınç yapmasını sağlayan parçaya denir",
+        "secenekB": "Yerine getiren yay; Tetik çekildiğinde horozun yavaş düşmesini sağlayarak zarar görmesini engelleyen parçaya denir",
+        "secenekC": "Hatve; Çekirdeğin namlu içinde bir tur dönmesi esnasında ilerlediği mesafeye denir",
+        "secenekD": "Gerdel yayı; tetik ile horoz arasındaki irtibatı sağlayan parçaya denir",
+        "secenekE": "Rayyür; Mermi çekirdeğinin namlu içinde bıraktığı ize denir",
+        "soru": "Tabancanın genel çalışma prensipleri ile üzerinde bulunan parçalar ve görevleri kapsamında aşağıda verilen tanımlardan hangisi doğrudur?"
+    },
+    {
+        "cevap": "E",
+        "id": 112,
+        "secenekA": "Silah ölü bir noktaya çevrilir",
+        "secenekB": "Şarjör çıkartılır",
+        "secenekC": "Sürgü çekilerek fişek yatağı kontrol edilir",
+        "secenekD": "Güvenli bölgeye boş tetik düşürülür",
+        "secenekE": "İlk önce sürgü tutucu pimi çıkarılır",
+        "soru": "Silah sökülürken güvenlik açısından dikkat edilecek hususlardan biri değildir?"
+    },
+    {
+        "cevap": "A",
+        "id": 113,
+        "secenekA": "Kabza",
+        "secenekB": "Gövde",
+        "secenekC": "Şarjör yuvası",
+        "secenekD": "Kapak",
+        "secenekE": "El kundağı",
+        "soru": "Tabancayı elle tutmaya yarayan bölüme ne denir?"
+    },
+    {
+        "cevap": "D",
+        "id": 114,
+        "secenekA": "Atış menzili kısalır",
+        "secenekB": "Hedefte nişan noktasında sapma olur",
+        "secenekC": "Çekirdek havada yay çizerek gider",
+        "secenekD": "Fişek hedefe daha hızlı gider ve delici gücü artar",
+        "secenekE": "Dönme hızı yavaşladığından fişeğin namludan çıkış hızı azalır",
+        "soru": "Atış yapmakta olan ÖGG Kemal'in kullanmış olduğu silahının Namlu içerisinde bulunan yiv ve setleri aşınmış ise aşağıda belirtilen durumlardan hangisi söylenemez?"
+    },
+    {
+        "cevap": "E",
+        "id": 115,
+        "secenekA": "Tetik parmağı, tetik üzerine doğru yerleştirilmelidir",
+        "secenekB": "Tetik düşürmek için gereğinden fazla beklenmemelidir",
+        "secenekC": "Tetikte, isnat boşluğu alınmalıdır",
+        "secenekD": "Tetiğe kademeli ezme işlemi yapılmalıdır",
+        "secenekE": "Hedefe nişan alındığında tetik hemen çekilmelidir",
+        "soru": "Atış kurallarına uygun olarak atış yapmaya hazırlanan ÖGG Kerem Tetik çekme esnasında aşağıdakilerden hangisini yapmamalıdır?"
+    },
+    {
+        "cevap": "B",
+        "id": 116,
+        "secenekA": "Top yuvaları",
+        "secenekB": "Çıkarıcı yıldız",
+        "secenekC": "Çıkarıcı",
+        "secenekD": "Horoz örsü",
+        "secenekE": "Top kilidi",
+        "soru": "Toplu tabancalarda (Revolverlerde) tırnak vazifesini hangi parça görür?"
+    },
+    {
+        "cevap": "A",
+        "id": 117,
+        "secenekA": "Şarjör tüpü – şarjör yayı – gerdel – şarjör kapağı – şarjör kapak kilidi",
+        "secenekB": "Şarjör tüpü – şarjör yayı – hatve – şarjör kapağı – şarjör kapak kilidi",
+        "secenekC": "Şarjör tüpü – şarjör yayı – gerdel – şarjör kapağı – hatve",
+        "secenekD": "Şarjör tüpü – şarjör yayı – rayyür – şarjör kapağı – şarjör kapak kilidi",
+        "secenekE": "Şarjör tüpü – şarjör yayı – rayyür – şarjör kapağı – hatve",
+        "soru": "Şarjörü oluşturan parçalar hangi şıkta doğru olarak verilmiştir?"
+    },
+    {
+        "cevap": "D",
+        "id": 118,
+        "secenekA": "Yarı otomatik",
+        "secenekB": "Tam otomatik",
+        "secenekC": "Tek hareketli",
+        "secenekD": "Çift hareketli",
+        "secenekE": "Toplu",
+        "soru": "Bir tabancada tetik, her çekildiğinde, kurulu olmayan horoz kuruluyor ve düşürülüyor ise bu tabanca aşağıdaki ateşleme sistemlerinden hangisine sahiptir?"
+    },
+    {
+        "cevap": "E",
+        "id": 119,
+        "secenekA": "Sürgüde (Kapak takımında)",
+        "secenekB": "Namluda",
+        "secenekC": "Şarjör kılıfında",
+        "secenekD": "Şarjör gövdesinde",
+        "secenekE": "Çerçevede (Gövdede)",
+        "soru": "Şarjör kilitleme mandalı, şarjör yuvası ve çıkarıcı yarı otomatik tabancada ………… bulunur. Yukarıda boş bırakılan yere gelecek ifade aşağıdaki hangi seçenekte verilmiştir?"
+    },
+    {
+        "cevap": "A",
+        "id": 120,
+        "secenekA": "Sürgünün, atış sırasında oluşan basınçla geriye gelmesinden sonra ileriye gitmesini sağlar",
+        "secenekB": "Fişek çekirdeğinin dönerek gitmesini sağlar",
+        "secenekC": "Fişek çekirdeğinin uzağa gitmesini sağlar",
+        "secenekD": "Namluyu kilitleyerek emniyete alır",
+        "secenekE": "Fişek çekirdeğinin deliş gücünü artırır",
+        "soru": "Tabancada bulunan yerine getiren yayın görevi nedir?"
+    },
+    {
+        "cevap": "D",
+        "id": 121,
+        "secenekA": "Silah sahibi silahını belediye sınırları içerisinde istediği yere nakledebilir",
+        "secenekB": "Bu konuda herhangi bir usul yoktur",
+        "secenekC": "Sadece genel kolluk tarafından nakledilebilir",
+        "secenekD": "Mahallin en büyük mülki amirinin vereceği “Silah Nakil Belgesi” ile nakledilebilir",
+        "secenekE": "Silah sahibi silahını il sınırları içerisinde istediği yere nakledebilir",
+        "soru": "6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun ve ilgili yönetmelik kapsamında bulundurma ruhsatlı silahların atış poligonu da dahil zorunlu hallerde bir yerden başka bir yere nakledilmesindeki usul nedir?"
+    },
+    {
+        "cevap": "B",
+        "id": 122,
+        "secenekA": "Çekirdek",
+        "secenekB": "İğne",
+        "secenekC": "Kovan",
+        "secenekD": "Barut",
+        "secenekE": "Kapsül",
+        "soru": "Aşağıdakilerden hangisi fişeğin bölümlerinden değildir?"
+    },
+    {
+        "cevap": "B",
+        "id": 123,
+        "secenekA": "Silahı fazla sıkmadan iyi bir şekilde kavramıştır",
+        "secenekB": "Geri tepmeyi en aza indirmek için sağ omzunu atış öncesi ileriye doğru hareket ettirmiştir",
+        "secenekC": "Dikkatini arpacıkta toplamış ve hedefi flu olarak görmüştür",
+        "secenekD": "Tam ve doğru bir nişan hattı oluşturmuştur",
+        "secenekE": "Nefes kontrolünü düzgün yapmıştır",
+        "soru": "ÖGG Osman 15 metre mesafeden tabanca ile yaptığı atışta atışlarını hedefin orta noktasında toplamayı başarmıştır. Osman için aşağıdakilerden hangisi söylenemez?"
+    },
+    {
+        "cevap": "B",
+        "id": 124,
+        "secenekA": "Silahı elle doldurma ve kurmak için kullanılır",
+        "secenekB": "Atış esnasında kurma kolu sürgü ile birlikte hareket eder",
+        "secenekC": "Silah doldurulduktan sonra, atış esnasında hiçbir fonksiyonu yoktur",
+        "secenekD": "Namlunun üst kısmında başka bir bölgeye yerleştirilmiştir",
+        "secenekE": "Kurma kolu takılı bırakıldığında, gövde ile birlikte namlu, mekanizma ve iğne grubunu kilitleyerek emniyeti sağlar",
+        "soru": "MP-5 makineli tabancanın kurma kolu parçası ile ilgili olarak aşağıda yer alan ifadelerden hangisi doğru değildir?"
+    },
+    {
+        "cevap": "A",
+        "id": 125,
+        "secenekA": "Kapsül",
+        "secenekB": "Namlu",
+        "secenekC": "Sürgü",
+        "secenekD": "Tırnak",
+        "secenekE": "Horoz",
+        "soru": "Aşağıdakilerden hangisi silahların parçalarından biri değildir?"
+    }
+]
