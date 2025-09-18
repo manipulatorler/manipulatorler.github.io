@@ -17045,7 +17045,8 @@ initCom(PDFViewerApplication);
 {
   const HOSTED_VIEWER_ORIGINS = new Set(["null", "http://mozilla.github.io", "https://mozilla.github.io"]);
   var validateFileURL = function (file) {
-    if (!file) {
+    /*
+	if (!file) {
       return;
     }
     const viewerOrigin = URL.parse(window.location)?.origin || "null";
@@ -17075,6 +17076,7 @@ initCom(PDFViewerApplication);
   var onOpenFile = function (evt) {
     this._openFileInput?.click();
   };
+  */
 }
 function onPageRender({
   pageNumber
